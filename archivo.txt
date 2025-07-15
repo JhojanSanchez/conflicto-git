@@ -1,2 +1,2 @@
 Este es un archivo de prueba
-Modificación desde rama A
+Modificación combinada desde rama A y B
